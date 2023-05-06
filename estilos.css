@@ -1,0 +1,140 @@
+header{
+    background-color: #444747;
+}
+
+.titulo{
+    font-size:22px;
+}
+
+
+.b{
+    color:white;
+}
+
+.v{
+    color:#11E04F;
+}
+
+.g{
+    color:#8F8F8F;
+}
+
+.top{
+    margin: 50px 0px;
+}
+.padding{
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.buttom1{
+    border:1px solid white;
+    background-color: rgba(0,0,0,0);
+}
+.buttom2{
+    background-color:green;
+}
+
+.a{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.fondon{
+    background-color: #444747;
+}
+
+.foto1{
+    background-image: url(Img/foto1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
+
+.foto2{
+    background-image: url(Img/foto2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.border{
+    border: 0.5px solid grey;
+}
+
+.p1{
+    font-size: 12px;
+}
+.p2{
+    font-size: 24px;
+}
+.weight{
+    font-weight: 500;
+}
+.java{
+    border-radius: 2px;
+    background-color: #e3c60d;
+    font-size: 10px;
+    font-weight: 700;
+    padding:0;
+    margin: 5px;
+}
+.react{
+    border-radius: 2px;
+    color:aliceblue;
+    background-color: #0dcae3;
+    font-size: 10px;
+    font-weight: 700;
+    padding:0;
+    margin: 5px;
+}
+.negocios{
+    border-radius: 2px;
+    color:aliceblue;
+    background-color: #495c5f;
+    font-size: 10px;
+    font-weight: 700;
+    padding:0;
+    margin: 5px;
+}
+.startups{
+border-radius: 2px;
+    color:aliceblue;
+    background-color: #d01111;
+    font-size: 10px;
+    font-weight: 700;
+    padding:0;
+    margin: 5px;
+}
+
+.o1{
+    width: 100%;
+}
+
+.mas{
+    background-color: rgba(0,0,0,0);
+    border:1px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: 100;
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-bottom: 300px;
+}
+
+.inputg{
+    height: 300px;
+}
+
+.footer{
+    color:white;
+    background-color: #444747;
+}
+
+.margin{
+    margin: 20px 5px 20px 5px;
+}
+
+.marginF{
+    margin:5px;
+}
